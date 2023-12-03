@@ -1,6 +1,6 @@
 #!/bin/bash
 login="msauveur-23"
-localFolder="/home/matsvr/tphadoop/"
+localFolder="/home/matsvr/projet_systrep/"
 folderName="adeployer"
 remoteFolder="/tmp/$login/"
 #you can get the list of machines using the getMachines.sh script that creates a file named machines.txt
